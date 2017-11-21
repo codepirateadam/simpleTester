@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rajat/code/simpleTester/BinaryTree.cpp
+BinaryTree.h
+/home/rajat/code/simpleTester/BinaryTree.h
+iostream
+-
+
+/home/rajat/code/simpleTester/BinaryTree.h
+
+/home/rajat/code/simpleTester/Queue.cpp
+Queue.h
+/home/rajat/code/simpleTester/Queue.h
+
+/home/rajat/code/simpleTester/Queue.h
+
+/home/rajat/code/simpleTester/SinglyLinkList.cpp
+SinglyLinkList.h
+/home/rajat/code/simpleTester/SinglyLinkList.h
+
+/home/rajat/code/simpleTester/SinglyLinkList.h
+iostream
+-
+
+/home/rajat/code/simpleTester/main.cpp
+iostream
+-
+SinglyLinkList.h
+/home/rajat/code/simpleTester/SinglyLinkList.h
+Queue.h
+/home/rajat/code/simpleTester/Queue.h
+BinaryTree.h
+/home/rajat/code/simpleTester/BinaryTree.h
+

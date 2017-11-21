@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/simpleTester.dir/main.cpp.o CMakeFiles/simpleTester.dir/SinglyLinkList.cpp.o CMakeFiles/simpleTester.dir/Queue.cpp.o CMakeFiles/simpleTester.dir/BinaryTree.cpp.o  -o simpleTester 
